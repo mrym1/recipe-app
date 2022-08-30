@@ -1,0 +1,23 @@
+.recipe {
+  margin: 20px;
+  padding: 20px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 340px;
+  /* min-width: 40%; */
+  background: #e2ffcd;
+  box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+}
+
+.image {
+  border-radius: 50%;
+  padding: 1rem;
+  width: 10rem;
+  height: 10rem;
+}
+
+.ol {
+  list-style-type: none;
+}
